@@ -1,0 +1,38 @@
+@import './colors.css';
+@import './reset.css';
+
+.home {
+  background-color: var(--background);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.header-list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+ 
+}
+.item-list {
+  font-family: Raleway;
+  font-weight: 300;
+  font-size: 18px;
+  color: var(--green);
+  padding: 10px;
+}
+
+.title-name {
+  font-family: Calistoga;
+  font-size: 40px;
+  color: var(--green);
+}
+
+.area {
+  font-family: Raleway;
+  font-weight: 300;
+  font-size: 30px;
+  color: var(--green);
+}
