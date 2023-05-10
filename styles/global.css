@@ -1,0 +1,15 @@
+:root {
+  --background: #FBF3E4;
+  --green: #105652;
+  --pink: #FFB4DA;
+  --purple: #841E62;
+  --white: #FFF;
+  --yellow: #F9C041;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
